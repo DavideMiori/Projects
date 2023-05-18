@@ -1,4 +1,4 @@
-# Computer Vision Project
+# Image and Audio Recognition Project
 This project is divided into three tasks: Speaker Identification, Image Recogntion and Image Retrieval.   
 The first one concerns the development of a model which is capable of recognizing who is talking. Thanks to the mfcc features we have trained a cnn to recognize a person by his voice.     
 The second task is equal to the first execpt that we have used images instead of audio signals. So the model recognizes a person by a picture.  
